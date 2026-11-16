@@ -1,6 +1,7 @@
 # Arquivo de trabalho e documentação da entrega
 /_Material_Local/
-/Revisao/
+/Revisao/*
+!/Revisao/TG_Peterson_Alves_Pereira_Revisado.docx
 
 # Metadados do sistema e arquivos temporários de editores
 .DS_Store
