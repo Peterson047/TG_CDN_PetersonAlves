@@ -1,0 +1,8 @@
+# Arquivo de trabalho e documentação da entrega
+/_Material_Local/
+/Revisao/
+
+# Metadados do sistema e arquivos temporários de editores
+.DS_Store
+.~lock.*#
+~$*
