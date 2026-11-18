@@ -19,6 +19,6 @@ Meu Trabalho de Graduação reúne a trajetória dos seis Projetos Integradores.
 
 ## Documento do TG
 
-[Rascunho do Trabalho de Graduação (DOCX)](Revisao/TG_Peterson_Alves_Pereira_Revisado.docx) · versão em revisão, com aprovação pendente.
+[Trabalho de Graduação (PDF)](Revisao/TG_Peterson_Alves_Pereira_Revisado.pdf) · [Versão editável (DOCX)](Revisao/TG_Peterson_Alves_Pereira_Revisado.docx)
 
-O PDF do Trabalho de Graduação será adicionado após a revisão de entrega.
+Versão revisada, preparada para avaliação do orientador. A entrega definitiva depende da ficha catalográfica e da conclusão da documentação acadêmica.
